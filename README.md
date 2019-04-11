@@ -1,1 +1,1 @@
-# This is an algorithm for mulitiple-constant-multiplication.
+This is an algorithm for mulitiple-constant-multiplication.
